@@ -32,3 +32,9 @@ print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
+
+
+# Hashing after commiting
+#Changing branch: git branch -M main from master to main
+#Difference btn git add and git remote add?
+# git push -u main : Pushing upstream to the main branch
